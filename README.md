@@ -1,34 +1,104 @@
-# AI-Powered Resume Screener (Polished)
+# AI Resume Screener
 
-This is a polished, ready-to-run AI Resume Screener for your college PBL and interview portfolio.
-It extracts text from resumes (TXT, DOCX, PDF), computes similarity to a job description using TF-IDF + cosine similarity (normalized to 0-100%), ranks resumes, and provides a Streamlit UI with downloadable results.
+An AI-powered Resume Screening System that helps automate the recruitment process by analyzing resumes and matching them with job descriptions using Natural Language Processing (NLP) and Machine Learning techniques.
 
-## Features
-- Robust resume parsing (txt, docx, pdf)
-- No NLTK dependency (uses regex + sklearn)
-- Normalized similarity scores (0-100%)
-- Streamlit UI with file upload, preview, rank table, chart, and CSV download
-- Sample resumes and job description included
-- Auto-generated simple PPTX and Word report (if python-pptx and python-docx are installed)
+🚀 Features
 
-## Quick Start
-1. Create & activate a virtual environment:
-   ```bash
-   python -m venv .venv
-   # Windows (cmd):
-   .venv\Scripts\activate
-   # macOS/Linux:
-   source .venv/bin/activate
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Streamlit app from the project root (important):
-   ```bash
-   streamlit run app/streamlit_app.py
-   ```
+* Upload resumes in PDF format
+* Extract text from resumes automatically
+* Compare resumes with job descriptions
+* Calculate resume-job match score
+* Rank multiple resumes based on relevance
+* Display matching keywords and missing skills
+* Interactive web interface built with Streamlit
+* Fast and user-friendly recruitment assistant
 
-## Notes
-- Run the app from the project root so imports resolve correctly.
-- If PDF text extraction fails for some PDFs, try converting to DOCX or TXT as fallback.
+🛠️ Tech Stack
+
+* **Python**
+* **Streamlit**
+* **Natural Language Processing (NLP)**
+* **Scikit-learn**
+* **Pandas**
+* **NumPy**
+* **PyPDF2 / pdfplumber**
+* **Sentence Transformers / TF-IDF**
+* **Git & GitHub**
+
+📂 Project Structure
+
+AI-Resume-Screener/
+│── app.py
+│── streamlit_app.py
+│── requirements.txt
+│── README.md
+│── resume_parser.py
+│── job_matcher.py
+│── utils.py
+│── data/
+│── models/
+│── sample_resumes/
+└── assets/
+
+⚙️ Installation
+
+1. Clone the repository:
+bash
+git clone https://github.com/your-username/AI-Resume-Screener.git
+
+
+2. Navigate to the project directory:
+bash
+cd AI-Resume-Screener
+
+3. Install dependencies:
+bash
+pip install -r requirements.txt
+
+4. Run the application:
+bash
+streamlit run streamlit_app.py
+
+
+📊 How It Works
+
+1. Upload one or more resumes.
+2. Enter or upload a job description.
+3. The system extracts resume content.
+4. AI compares resumes with the job description.
+5. A similarity score is generated.
+6. Candidates are ranked based on their match percentage.
+
+📈 Future Improvements
+
+* BERT/LLM-based semantic matching
+* Resume skill gap analysis
+* ATS compatibility checker
+* Interview question generation
+* Candidate recommendation system
+* Recruiter dashboard
+* Cloud deployment (AWS/Azure/GCP)
+
+🎯 Applications
+
+* HR Recruitment
+* Talent Acquisition
+* Resume Filtering
+* Campus Placement Screening
+* Applicant Tracking Systems (ATS)
+
+🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repository, create a feature branch, and submit a pull request.
+
+📄 License
+
+This project is licensed under the MIT License.
+
+👨‍💻 Author
+
+**Anas Ansari**
+
+BCA (Artificial Intelligence & Data Science)
+
+Passionate about Artificial Intelligence, Machine Learning, and Data Analyst.
