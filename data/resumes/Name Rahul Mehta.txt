@@ -1,0 +1,5 @@
+Name: Rahul Mehta
+Skills: Python, SQL, Power BI, Data Visualization, Data Cleaning
+Experience: 2 years as a Data Analyst at Infosys
+Education: B.Tech in Computer Science
+

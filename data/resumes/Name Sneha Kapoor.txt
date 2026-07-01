@@ -1,0 +1,5 @@
+Name: Sneha Kapoor
+Skills: HTML, CSS, JavaScript, React
+Experience: Front-end Developer at TCS for 3 years
+Education: BCA
+

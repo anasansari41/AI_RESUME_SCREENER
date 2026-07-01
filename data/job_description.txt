@@ -1,0 +1,2 @@
+We are hiring an AI Engineer with strong skills in Python, Machine Learning, Deep Learning, NLP, SQL, and Cloud Platforms (AWS or GCP).
+Experience in deploying ML models and working with big datasets is a plus.

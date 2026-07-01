@@ -1,0 +1,5 @@
+Name: John Doe
+Email: john@example.com
+
+Summary:
+Backend developer experienced with Java and Spring Boot. Knows SQL and Docker. Limited Python and ML exposure.

@@ -1,0 +1,12 @@
+Name: Priya Verma
+
+Skills:
+Python, Excel, Data Analysis, Power BI
+
+Experience:
+Worked on analyzing business data using Excel and Python.
+Created reports and dashboards using Power BI.
+
+Projects:
+- Business Analytics using Excel
+- Data Visualization using Power BI

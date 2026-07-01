@@ -1,0 +1,12 @@
+Name: Rahul Sharma
+
+Skills:
+Python, SQL, Pandas, NumPy, Machine Learning, Data Analysis, Tableau
+
+Experience:
+Worked as a Data Analyst where I analyzed datasets using Python and SQL.
+Built dashboards using Tableau and performed statistical analysis.
+
+Projects:
+- Sales Data Analysis using Python
+- Dashboard creation using Tableau

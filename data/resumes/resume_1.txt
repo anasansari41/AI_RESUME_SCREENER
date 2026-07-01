@@ -1,0 +1,4 @@
+John Doe  
+Software Engineer
+
+Experienced in Python development, machine learning algorithms, and data analysis. Worked on several NLP projects using TensorFlow and scikit-learn. Strong problem-solving skills and good communicator. Seeking to grow in an AI-focused role.

@@ -1,0 +1,6 @@
+Name: Anas Ansari
+Email: anas@example.com
+
+Professional Summary:
+Experienced Python developer with 3 years in ML and backend development. Skilled in Python, TensorFlow, PyTorch, scikit-learn, pandas, SQL, Docker, and basic AWS.
+Worked on NLP chatbots, image classifiers, and data pipelines.

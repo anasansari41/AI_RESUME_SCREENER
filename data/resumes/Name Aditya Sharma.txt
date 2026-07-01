@@ -1,0 +1,4 @@
+Name: Aditya Sharma
+Skills: Python, R, Tableau, Statistics, Machine Learning
+Experience: 1.5 years as Data Science Intern at Deloitte
+Education: M.Sc. in Data Analytics

@@ -1,0 +1,12 @@
+Name: Amit Singh
+
+Skills:
+HTML, CSS, JavaScript, React
+
+Experience:
+Frontend developer building web applications using React.
+Worked on UI/UX design and responsive websites.
+
+Projects:
+- Portfolio Website
+- E-commerce frontend
