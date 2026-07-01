@@ -2,7 +2,7 @@
 
 An AI-powered Resume Screening System that helps automate the recruitment process by analyzing resumes and matching them with job descriptions using Natural Language Processing (NLP) and Machine Learning techniques.
 
-🚀 Features
+## 🚀 Features
 
 * Upload resumes in PDF format
 * Extract text from resumes automatically
@@ -13,7 +13,7 @@ An AI-powered Resume Screening System that helps automate the recruitment proces
 * Interactive web interface built with Streamlit
 * Fast and user-friendly recruitment assistant
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 * **Python**
 * **Streamlit**
@@ -25,7 +25,7 @@ An AI-powered Resume Screening System that helps automate the recruitment proces
 * **Sentence Transformers / TF-IDF**
 * **Git & GitHub**
 
-📂 Project Structure
+## 📂 Project Structure
 
 AI-Resume-Screener/
 │── app.py
@@ -40,7 +40,7 @@ AI-Resume-Screener/
 │── sample_resumes/
 └── assets/
 
-⚙️ Installation
+## ⚙️ Installation
 
 1. Clone the repository:
 bash
@@ -60,7 +60,7 @@ bash
 streamlit run streamlit_app.py
 
 
-📊 How It Works
+## 📊 How It Works
 
 1. Upload one or more resumes.
 2. Enter or upload a job description.
@@ -69,7 +69,7 @@ streamlit run streamlit_app.py
 5. A similarity score is generated.
 6. Candidates are ranked based on their match percentage.
 
-📈 Future Improvements
+## 📈 Future Improvements
 
 * BERT/LLM-based semantic matching
 * Resume skill gap analysis
@@ -79,7 +79,7 @@ streamlit run streamlit_app.py
 * Recruiter dashboard
 * Cloud deployment (AWS/Azure/GCP)
 
-🎯 Applications
+## 🎯 Applications
 
 * HR Recruitment
 * Talent Acquisition
@@ -87,15 +87,15 @@ streamlit run streamlit_app.py
 * Campus Placement Screening
 * Applicant Tracking Systems (ATS)
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repository, create a feature branch, and submit a pull request.
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 **Anas Ansari**
 
